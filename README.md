@@ -55,7 +55,7 @@
 
 ### 📌 Featured Projects
 
-- 🎮 **Tic-Tac-Toe Game** [🔗 View Project](https://github.com/HatimMaterwala/tic-tac-toe)
+- 🎮 **MOVIESFLOW** [🔗 View Project](https://moviesflow-appbyhatim.netlify.app/)
 - 🔑 **Password Manager** [🔗 View Project](https://passop-appbyhatim.netlify.app/)
 - ✅ **To-Do App** [🔗 View Project](https://itask-todoappbyhatim.netlify.app/)
 
