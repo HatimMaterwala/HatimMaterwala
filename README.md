@@ -55,7 +55,7 @@
 
 ### 📌 Featured Projects
 
-- 🎮 **MOVIESFLOW** [🔗 View Project](https://moviesflow-appbyhatim.netlify.app/)
+- 🎮 **Movies App** [🔗 View Project](https://moviesflow-appbyhatim.netlify.app/)
 - 🔑 **Password Manager** [🔗 View Project](https://passop-appbyhatim.netlify.app/)
 - ✅ **To-Do App** [🔗 View Project](https://itask-todoappbyhatim.netlify.app/)
 
