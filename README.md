@@ -56,7 +56,7 @@
 ### 📌 Featured Projects
 
 - 🎮 **Tic-Tac-Toe Game** [🔗 View Project](https://github.com/HatimMaterwala/tic-tac-toe)
-- 📚 **Educational Website on Breaking Bad** [🔗 View Project](https://github.com/HatimMaterwala/breaking-bad-website)
+- 🔑 **Password Manager** [🔗 View Project](https://passop-appbyhatim.netlify.app/)
 - 🎵 **AI-Based Song App** [🔗 View Project](https://github.com/HatimMaterwala/song-app)
 
 ---
