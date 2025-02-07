@@ -57,7 +57,7 @@
 
 - 🎮 **Tic-Tac-Toe Game** [🔗 View Project](https://github.com/HatimMaterwala/tic-tac-toe)
 - 🔑 **Password Manager** [🔗 View Project](https://passop-appbyhatim.netlify.app/)
-- 🎵 **AI-Based Song App** [🔗 View Project](https://github.com/HatimMaterwala/song-app)
+- ✅ **To-Do App** [🔗 View Project](https://itask-todoappbyhatim.netlify.app/)
 
 ---
 
