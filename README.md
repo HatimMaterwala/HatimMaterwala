@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hatim Materwala</h1>
 <h3 align="center">AWS Certified Cloud Engineer | Backend Developer | Secure Systems Builder</h3>
 <p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=HatimMaterwala&label=Profile%20Views&color=0e75b6&style=flat)
+  {![Profile Views](https://komarev.com/ghpvc/?username=HatimMaterwala&label=Profile%20Views&color=0e75b6&style=flat)}
 </p>
 <p align="center">
   <a href="mailto:hatimmater1234@gmail.com">Email</a> •
