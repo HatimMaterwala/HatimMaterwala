@@ -123,7 +123,7 @@ Focused on:
 - Role-based profile access
 - CI/CD pipeline & automated testing
 - Fully deployed on Vercel
-- 🌍 Live Demo: [DevConnect(https://devconnect-lac.vercel.app/)] 
+- 🌍 Live Demo: [DevConnect](https://devconnect-lac.vercel.app/)
 ---
 
 ## 📦 StoreIT – Secure File Sharing Platform
