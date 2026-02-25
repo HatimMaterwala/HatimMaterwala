@@ -200,13 +200,6 @@ Focused on:
 <img src="https://github-readme-stats-fast.vercel.app/api?username=HatimMaterwala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HatimMaterwala&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HatimMaterwala&layout=compact&theme=radical&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
-
-*(Note: If stats cards fail to load due to rate limits, consider deploying your own instance or using alternatives like github-readme-stats GitHub Action.)*
-
 ---
 
 ### 🏅 Certifications & Achievements
