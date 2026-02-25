@@ -86,47 +86,106 @@ Focused on:
 
 ---
 
-### 🔥 Featured Projects
+# 🧠 Engineering Projects
 
-1. **DevConnect** – Full-Stack Developer Social Platform  
-   Modern social app for devs to share projects (posts, comments, likes, follows, real-time chat)  
-   Next.js • React • Node.js • MongoDB • Socket.io • JWT + Google OAuth • Cypress/Jest • CI/CD • Vercel  
+---
 
-2. **Store IT** – Secure File-Sharing Platform  
-   Chunked uploads (≤50MB), OTP/passwordless auth, auto-categorization, global search, RBAC  
-   Next.js • Appwrite • TypeScript • REST APIs • CI/CD • Vercel  
+## 🏦 SecureBank – Enterprise Digital Banking Backend System
+**Java | Spring Boot | Spring Security | JWT | MySQL | Docker | AWS**
 
-3. **SecureBank** – Enterprise Digital Banking Backend  
-   Account management, transfers, JWT auth, RBAC (ADMIN/CUSTOMER), ACID transactions  
-   Java • Spring Boot • Spring Security • MySQL • Hibernate/JPA • Docker • AWS EC2/RDS  
+- Built secure RESTful banking APIs (accounts, transfers, transactions)
+- Implemented JWT authentication & role-based authorization
+- Used `@Transactional` for ACID-compliant fund transfers
+- Designed relational schema with JPA/Hibernate
+- Applied DTO pattern & global exception handling
+- Dockerized & deployed on AWS EC2 + MySQL RDS
 
-4. **Real-Time Eye State Detection & Alert System**  
-   Monitors eye closure using OpenCV & Haar Cascades, triggers audio alerts  
-   Python • OpenCV • Computer Vision • Real-time processing  
+---
 
-5. **Cloud-Based Microservices Backend**  
-   RESTful API with versioning, Cognito auth, Jest/Supertest testing, Dockerized  
-   Node.js • Express • AWS EC2 • Cognito • GitHub Actions • Docker  
+## ☁️ Cloud-Based Microservices Backend
+**Node.js | Express | AWS EC2 | Cognito | Docker | CI/CD**
 
-6. **Delivery Route Optimization System** (Software Testing)  
-   Tested graph-based shortest-path delivery system (unit/integration/system/regression)  
-   Jira • GitHub • Agile • White/Black-box testing  
+- Built versioned REST microservice architecture
+- Secured endpoints using AWS Cognito
+- Centralized error handling & reusable response factories
+- Implemented Jest + Supertest automated testing
+- CI pipelines with GitHub Actions
+- Containerized and deployed using Docker
 
-7. **Enterprise Healthcare Data Analyst System**  
-   Advanced SQL (views, unions, triggers, permissions) across 3 hospitals' patient data  
-   Oracle • MySQL  
+---
 
-8. **Olympic Dataset Analysis & Cleaning** (DSA + Analytics)  
-   Data cleaning, sorting, efficient structures/algorithms, pytest, CI/CD  
-   Python • Pandas • GitHub Actions  
+## 🌐 DevConnect – Full Stack Social Platform
+**Next.js | Node.js | MongoDB | JWT | Socket.io | Cypress**
 
-9. **Pixel Cafe – Gamanage Booking System** (System Design)  
-   Full system design: UML, class/sequence diagrams (MVC), requirements docs, Visual Paradigm, presentation  
+- Built developer-focused social media platform
+- Features: posts, comments, likes, follow, chat
+- Google OAuth + JWT authentication
+- Role-based profile access
+- CI/CD pipeline & automated testing
+- Fully deployed on Vercel
 
-10. **Python YT Anything** – YouTube Video Downloader  
-    Next.js frontend • Python backend (yt-dlp + ffmpeg) • Docker • Railway  
+- 🌍 Live Demo: [[DevConnect](https://devconnect-lac.vercel.app/)] 
+---
 
-More projects on [GitHub](https://github.com/HatimMaterwala?tab=repositories)
+## 📦 StoreIT – Secure File Sharing Platform
+**Next.js | TypeScript | Appwrite | CI/CD | Docker**
+
+- Chunked uploads up to 50MB
+- OTP-based passwordless authentication
+- Auto-expiring secure share links
+- Role-based file access control
+- Dashboard with storage analytics
+- CI/CD automated deployments
+
+---
+
+## 📊 Olympic Data Integrity & Optimization Engine
+**Python | DSA | Data Cleaning | Pytest | CI/CD**
+
+- Cleaned corrupted Olympic datasets (invalid dates, missing countries)
+- Applied optimized sorting & algorithmic runtime validation
+- Structured data using efficient data structures
+- Automated tests using Pytest
+- Documented full pipeline with Markdown
+
+---
+
+## 🚚 Delivery Route Optimization Testing System
+**Software Testing | Graph Algorithms | Jira | GitHub**
+
+- Validated shortest-path route algorithms
+- Designed boundary, regression & integration test matrices
+- Performed white-box & black-box testing
+- Logged defects in Agile sprint workflow using Jira
+
+---
+
+## 🏥 Enterprise Healthcare Data System
+**Oracle | MySQL | Advanced SQL**
+
+- Designed multi-hospital patient database
+- Used views, unions, intersections & triggers
+- Implemented permission-based access control
+- Ensured database-level integrity
+
+---
+
+## 👁️ Real-Time Eye State Detection System
+**Python | OpenCV | Computer Vision**
+
+- Multi-stage detection pipeline (face → eye → state analysis)
+- Frame-based threshold to reduce false positives
+- Real-time alert system integration
+
+---
+
+# 📚 Additional Projects
+
+- 📚 Web422 Book Store (Next.js + Open Library API + CI/CD)
+- 🎬 Movies App
+- 🔐 Password Manager
+- 📺 Python YouTube Downloader (yt-dlp + Docker + Railway Deployment)
+- 🎮 Pixel Cafe – System Design & Business Analysis (UML, MVC, BRD)
 
 ---
 
