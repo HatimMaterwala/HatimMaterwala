@@ -123,8 +123,7 @@ Focused on:
 - Role-based profile access
 - CI/CD pipeline & automated testing
 - Fully deployed on Vercel
-
-Live Demo: [DevConnect](https://devconnect-lac.vercel.app/)
+- Live: [DevConnect](https://devconnect-lac.vercel.app/)
 ---
 
 ## 📦 StoreIT – Secure File Sharing Platform
@@ -136,7 +135,7 @@ Live Demo: [DevConnect](https://devconnect-lac.vercel.app/)
 - Role-based file access control
 - Dashboard with storage analytics
 - CI/CD automated deployments
-
+- Live: [StoreIt](https://storeit-byhatim.vercel.app/)
 ---
 
 ## 📊 Olympic Data Integrity & Optimization Engine
@@ -176,7 +175,7 @@ Live Demo: [DevConnect](https://devconnect-lac.vercel.app/)
 - Multi-stage detection pipeline (face → eye → state analysis)
 - Frame-based threshold to reduce false positives
 - Real-time alert system integration
-
+- Github: [Sleep Detector](https://github.com/HatimMaterwala/sleep_detector)
 ---
 
 # 📚 Additional Projects
