@@ -194,15 +194,6 @@ Focused on:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?            username=HatimMaterwala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"     width="48%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=HatimMaterwala&theme=radical" alt="GitHub Streak" width="48%"/>
-</p>
-
----
-
 ### 🏅 Certifications & Achievements
 - **AWS Certified Cloud Practitioner** (CLF-C02)  
 - **Seneca President's Honor List** (4.0 GPA – Semester 1)  
@@ -219,3 +210,5 @@ Focused on:
 Open to collaborations, internships, or full-time opportunities in web/cloud/dev.
 
 Thanks for stopping by! 🚀
+
+![Profile Views](https://komarev.com/ghpvc/?username=HatimMaterwala&label=Profile%20Views&color=0e75b6&style=flat)
