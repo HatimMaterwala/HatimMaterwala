@@ -197,9 +197,10 @@ Focused on:
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=HatimMaterwala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=HatimMaterwala&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?            username=HatimMaterwala&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"     width="48%"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=HatimMaterwala&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
+
 ---
 
 ### 🏅 Certifications & Achievements
