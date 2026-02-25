@@ -2,13 +2,15 @@
 <h3 align="center">AWS Certified Cloud Engineer | Backend Developer | Secure Systems Builder</h3>
 
 <p align="center">
-  <a href="mailto:hatimmater1234@gmail.com">Email</a> •
-  <a href="https://portfolio-hatim-materwala.vercel.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/hatim-materwala">LinkedIn</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatim-materwala/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hatimmater1234@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-hatim-materwala.vercel.app)
+  <a href="https://www.linkedin.com/in/hatim-materwala/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hatimmater1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portfolio-hatim-materwala.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
