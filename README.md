@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hatim Materwala</h1>
 <h3 align="center">AWS Certified Cloud Engineer | Backend Developer | Secure Systems Builder</h3>
+
 <p align="center">
   <a href="mailto:hatimmater1234@gmail.com">Email</a> •
   <a href="https://portfolio-hatim-materwala.vercel.app">Portfolio</a> •
@@ -7,15 +8,24 @@
   <a href="https://linkedin.com/in/hatim-materwala">LinkedIn</a>
 </p>
 
-
 ---
 
-### 🚀 About Me
-- 🎓 **Computer Programming & Analysis** student at **Seneca Polytechnic** (Current GPA: **3.8/4.0**)
-- 🏆 Awarded **Seneca President's Honor List** for achieving **4.0 GPA** in Semester 1
-- 💻 Passionate about **Full-Stack Web Development**, **Cloud Computing**, **AI**, **System Design**, **Software Testing** & **Data Structures**
-- 🛠️ 50+ LeetCode problems solved | Hands-on experience with AWS, Docker, CI/CD, and modern JavaScript ecosystems
-- 🔭 Currently exploring **microservices**, **real-time apps**, **computer vision**, and **secure enterprise systems**
+## 🚀 About Me
+
+🎓 Computer Programming & Analysis @ **Seneca Polytechnic**  
+📈 GPA: **3.8**  
+🏆 Award: **Seneca President's Honor List (4.0 GPA – Semester 1)**  
+☁️ AWS Certified Cloud Practitioner (CLF-02)  
+📍 North York, Ontario, Canada  
+
+I build **secure, scalable, production-ready systems** using modern backend architectures, cloud infrastructure, and DevOps automation.  
+
+Focused on:
+- Secure backend systems
+- Cloud-native deployments
+- Microservices architecture
+- CI/CD automation
+- System design & performance optimization
 
 ---
 
