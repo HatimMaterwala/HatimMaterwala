@@ -4,7 +4,6 @@
 <p align="center">
   <a href="mailto:hatimmater1234@gmail.com">Email</a> •
   <a href="https://portfolio-hatim-materwala.vercel.app">Portfolio</a> •
-  <a href="https://github.com/HatimMaterwala">GitHub</a> •
   <a href="https://linkedin.com/in/hatim-materwala">LinkedIn</a>
 </p>
 
