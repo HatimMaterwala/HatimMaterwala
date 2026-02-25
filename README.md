@@ -1,10 +1,15 @@
-### Hi there, I'm Hatim Materwala! 👋
+<h1 align="center">Hi 👋, I'm Hatim Materwala</h1>
+<h3 align="center">AWS Certified Cloud Engineer | Backend Developer | Secure Systems Builder</h3>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=HatimMaterwala&label=Profile%20Views&color=0e75b6&style=flat)
 
-Full-Stack Developer | AWS Certified | Computer Programming & Analysis Student  
-📍 North York, Ontario, Canada  
-✉️ hatimmater1234@gmail.com | 📞 437-868-0165  
-🌐 [Portfolio](https://portfolio-hatim-materwala.vercel.app) | [GitHub](https://github.com/HatimMaterwala) | [LinkedIn](https://www.linkedin.com/in/hatim-materwala/)
+<p align="center">
+  <a href="mailto:hatimmater1234@gmail.com">Email</a> •
+  <a href="https://portfolio-hatim-materwala.vercel.app">Portfolio</a> •
+  <a href="https://github.com/HatimMaterwala">GitHub</a> •
+  <a href="https://linkedin.com/in/hatim-materwala">LinkedIn</a>
+</p>
+
 
 ---
 
