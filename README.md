@@ -68,19 +68,22 @@ Focused on:
 
 ---
 
-### 💼 Professional Experience
+# 💼 Professional Experience
 
-**IT Support Specialist**  
-Acenet Wireless — Toronto, ON  
-- Activated physical & e-SIMs, troubleshot OS-level issues on mobiles, laptops, Firesticks  
-- Managed inventory, ordered parts via Excel & Teams, handled POS/Square transactions  
-- Created promotional ads (Black Friday, plans) and posted on Facebook Marketplace  
+## 🖥️ IT Support – Acenet Wireless
+- Activated physical & eSIMs (online/offline systems)
+- Troubleshot OS-level software issues (mobile, laptops, Firesticks, drivers)
+- Managed POS & Square transactions
+- Inventory management using Excel & Microsoft Teams
+- Created promotional campaigns & Facebook Marketplace ads
+- Configured IPTV TV boxes & Amazon Firesticks
 
-**Summer Student – Subway Janitor**  
-Toronto Transit Commission (TTC)  
-- Maintained high-traffic subway stations during overnight shifts  
-- Operated industrial cleaning equipment, followed strict safety & PPE protocols  
-- Awarded **Best Teamwork Certificate** for reliability and collaboration  
+## 🚇 Summer Student Subway Operations – TTC
+- Maintained sanitation in high-traffic subway stations
+- Operated industrial cleaning equipment following SOPs
+- Followed strict PPE & safety protocols
+- Awarded **Best Teamwork Certificate**
+- Worked overnight shifts under deadline-driven project conditions
 
 ---
 
